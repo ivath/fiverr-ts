@@ -1,4 +1,3 @@
-import { Token } from './../../node_modules/acorn/dist/acorn.d';
 import axios from "axios";
 export const http = axios.create({
     baseURL: 'https://fiverrnew.cybersoft.edu.vn/api',
