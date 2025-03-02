@@ -1,6 +1,6 @@
 # các thư viện được cài đặt trong dự án 
 # UI
-thư viện tailwind css, antd, sass
+thư viện tailwind css, antd, sass, và thư viện lucide icon
 # Global state và routing
 thư viện react router dom và thư viện redux toolkit
 # thư viện quán lí form và validation
