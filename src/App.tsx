@@ -1,10 +1,9 @@
+import useRoutesCustom from "./routes/useRoutesCustom"
 
 function App() {
-
+const routes = useRoutesCustom()
   return (
-    <>
-     <h1 className='text-red-500'>hello</h1>
-    </>
+    routes
   )
 }
 
